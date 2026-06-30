@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: dfcgvhbjnm
   version: '1.0'
+  summary: 'fghjnm,'
 servers:
   - url: 'http://localhost:3000'
 paths:
